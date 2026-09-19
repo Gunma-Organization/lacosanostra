@@ -1,0 +1,12 @@
+{
+  "name": "shoguns-remove",
+  "version": "1.0.0",
+  "description": "La Cosa Nostra",
+  "private": true,
+  "scripts": {
+    "set-webhook": "node --env-file=.env scripts/set-webhook.js"
+  },
+  "engines": {
+    "node": "20.x"
+  }
+}
